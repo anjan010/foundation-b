@@ -27,6 +27,8 @@ print(f"{phone_num} \n calling...")
 
 def num_length():
     pass
+def dail(num_length)
+    pass
 def openConatctDialer(num_length):
  if num_length >10:
         print("Number Invalid")
@@ -50,7 +52,6 @@ name,Age=input("please provoide your name and Age (comma string)") ("split")
 print(f"H!your name is {name},and your are {Age} years old") #string formation
 
 
-#
 
 
 
