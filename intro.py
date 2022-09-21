@@ -27,7 +27,7 @@ print(f"{phone_num} \n calling...")
 
 def num_length():
     pass
-def dail(num_length)
+def dail(num_length):
     pass
 def openConatctDialer(num_length):
  if num_length >10:
